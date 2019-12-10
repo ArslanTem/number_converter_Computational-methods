@@ -1,0 +1,7 @@
+C:\Users\Arslan\source\repos\number_converter\number_converter\bin\Debug\number_converter.exe.config
+C:\Users\Arslan\source\repos\number_converter\number_converter\bin\Debug\number_converter.exe
+C:\Users\Arslan\source\repos\number_converter\number_converter\bin\Debug\number_converter.pdb
+C:\Users\Arslan\source\repos\number_converter\number_converter\obj\Debug\number_converter.csprojAssemblyReference.cache
+C:\Users\Arslan\source\repos\number_converter\number_converter\obj\Debug\number_converter.csproj.CoreCompileInputs.cache
+C:\Users\Arslan\source\repos\number_converter\number_converter\obj\Debug\number_converter.exe
+C:\Users\Arslan\source\repos\number_converter\number_converter\obj\Debug\number_converter.pdb
